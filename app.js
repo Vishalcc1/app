@@ -7,6 +7,7 @@ app.use(express.json())
 let db
 let collectionName='tab'
 
+console.log("i get modify man...")
 app.listen(4000,()=>{
     console.log("listening on 4000")
 })
