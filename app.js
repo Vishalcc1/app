@@ -8,10 +8,10 @@ let db
 let collectionName='tab'
 
 
-// app.listen(4000,()=>{
-//     console.log("i get modify man...")
-//     console.log("listening on 4000")
-// })
+app.listen(4000,()=>{
+    console.log("i get modify man...")
+    console.log("listening on 4000")
+})
 
 
 // connecttoDb((err)=>{
